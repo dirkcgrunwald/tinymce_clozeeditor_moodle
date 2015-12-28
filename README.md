@@ -1,0 +1,1 @@
+# tinymce_clozeeditor_moodle
